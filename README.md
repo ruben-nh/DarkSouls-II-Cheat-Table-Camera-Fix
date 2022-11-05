@@ -19,6 +19,7 @@ For anyone interested, the address of the camera position has changed, all I did
 Camera Control Script: AOB Scan
 
 Original: `66 0F 7F 49 30 C3 CC CC CC CC CC CC CC CC CC CC CC CC CC 48`
+
 Updated: `66 0F 7F 49 30 C3 90 8B C2 24 07 3C 02 75 71 41 2C 79 D0 48`
 
 ## Known Bugs
